@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kchenforyou.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: blog.qmd
+        text: My blog
+      - href: research.qmd
+        text: research
+      # - href: files/CV_Epi_and_Biostats.pdf
+      #   text: CV
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto #only rerender only when source changes

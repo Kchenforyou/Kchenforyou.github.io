@@ -1,0 +1,16 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: _site/images/bulbasaur.png
+  links: 
+    - icon: github
+      text: github
+      href: https://github.com/Kchenforyou
+---
+
+## About
+
+Hello there! I'm Kevin, a Biostatistics MSc student at U of T. When I'm not busy,
+I enjoy [piano playing](https://www.youtube.com/@kevinchen4547), creative writing, and desperately trying to climb the
+ladder in Pokemon Showdown.
